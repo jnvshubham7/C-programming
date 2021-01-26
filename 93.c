@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("Shubham Kumar Bhokta\nIIITA ");
+    printf("SHUBHAM KUMAR BHOKTA\nIIITA ");
     return 0;
 }
