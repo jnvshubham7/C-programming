@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    s
+    printf("shubham");
     return 0;
 }
