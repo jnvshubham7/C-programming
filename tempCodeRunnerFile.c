@@ -1,4 +1,1 @@
-int temp;
-    temp = *n1;
-    *n1 = *n2;
-    *n2 = temp;
+printf("Enter two integers: ");
